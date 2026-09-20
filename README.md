@@ -1,7 +1,7 @@
 <h1 align="center">Salut, moi c'est Mael (Malyx) 👋</h1>
 
 <p align="center">
-  <b>Passionné de Cybersécurité & Développeur Python (14 ans)</b><br>
+  <b>Passionné de Cybersécurité & Développeur Python</b><br>
   <i>Spécialisé dans l'analyse statique de malwares, l'inspection PE et les outils desktop sous Windows.</i>
 </p>
 
